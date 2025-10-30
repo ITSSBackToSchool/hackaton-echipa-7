@@ -1,0 +1,10 @@
+flask
+ultralytics
+google-generativeai
+coqui-tts
+python-dotenv
+Pillow
+torch
+transformers
+flask_login
+flask_bcrypt
